@@ -16,6 +16,5 @@
     <nav class="navbar navbar-dark bg-dark">
       <div class="container">
         <a class="navbar-brand" href="index.php">TEST CRUD</a>
-        <a class="navbar-brand" href="index.php">Logout</a>
       </div>
     </nav>
