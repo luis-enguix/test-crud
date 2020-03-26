@@ -1,0 +1,27 @@
+main .card-body{
+    margin-top: 40px;
+}
+
+.alert-info{
+    margin-top: 30px;
+}
+
+.table-striped{
+    text-align: center;
+}
+
+#alertas{
+    margin-top:20px;
+    margin-bottom: -20px;
+}
+.alert-secondary{
+    text-align: center;
+}
+
+input[type = "search"]{
+    border-radius: 5px;
+}
+
+select{
+    border-radius: 5px;
+}
